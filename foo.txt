@@ -3,3 +3,4 @@ local 1
 fakeTeamwork 1
 fakeTeamwork 2
 local 2
+local main 1
